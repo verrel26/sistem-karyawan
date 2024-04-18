@@ -1,0 +1,19 @@
+Sistem karyawan
+ Admin 
+  - Dashboard
+  - Data Karyawan
+  - Data Lembur
+  - Data Cuti
+  - Data Liputan
+  - Pengajuan Cuti
+  - Pengajuan Lembur
+  - Role
+  - Permission
+  - User
+  - Laporan
+
+Karyawan
+ - Dashboard
+ - Pengajuan Cuti
+ - Pengajuan Lembur
+ - Data Liputan (Tampil berdasarkan user/karyawan yang login)
