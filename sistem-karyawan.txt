@@ -23,7 +23,5 @@ Pimpinan
  - Karyawan 
  - Lembur
  - Cuti
- - Liputan
- - Pengajuan Cuti
  - Pengajuan Lembur
 
