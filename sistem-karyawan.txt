@@ -17,3 +17,13 @@ Karyawan
  - Pengajuan Cuti
  - Pengajuan Lembur
  - Data Liputan (Tampil berdasarkan user/karyawan yang login)
+
+Pimpinan 
+ - Dashboard
+ - Karyawan 
+ - Lembur
+ - Cuti
+ - Liputan
+ - Pengajuan Cuti
+ - Pengajuan Lembur
+
